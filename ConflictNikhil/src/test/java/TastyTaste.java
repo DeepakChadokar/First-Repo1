@@ -7,6 +7,7 @@ public class TastyTaste {
 	@Test
 	public void example() {
 		System.out.println("fjsfjsfsfkskf");
+		System.out.println("abcdefghijklmnopqrstuvwxyz");
 	}
 	
 	@Test
